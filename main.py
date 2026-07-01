@@ -2,13 +2,13 @@
   "type": "kcn_research",
   "kcn_name": "VSIP Quảng Ngãi",
   "data": {
-    "name": "VSIP Quảng Ngãi",
-    "province": "Quảng Ngãi",
-    "scale_ha": 600,
-    "developer": "VSIP",
-    "land_lease_price": null,
-    "available_area": null
-  },
+    "name": kcn_name,
+    "province": None,
+    "scale_ha": None,
+    "developer": None,
+    "land_lease_price": None,
+    "available_area": None,
+},
   "missing_fields": [
     "land_lease_price",
     "available_area"
